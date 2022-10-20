@@ -1,2 +1,2 @@
 # bx_avito_event
-bitrix avito event
+Пользовательские события для модификации значений
